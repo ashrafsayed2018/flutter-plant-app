@@ -1,4 +1,4 @@
-# tender_swipe_cards
+# flutter plants app
 
 A new Flutter project.
 
